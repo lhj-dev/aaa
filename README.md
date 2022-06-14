@@ -1,2 +1,2 @@
 # aaa
-just excise in my study time
+just verify what I learned about c/c++
